@@ -2,6 +2,7 @@
 python toy base on turtle tools
 
 # run
+py2
 ```
 python crayon_shinchan.py
 ```
