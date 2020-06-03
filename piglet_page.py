@@ -5,6 +5,7 @@ import turtle as t
 # t.begin_fill()
 t.pensize(4)
 # t.hideturtle()
+
 t.colormode(255)
 t.color((255, 155, 192), "pink")
 t.setup(840, 500)
